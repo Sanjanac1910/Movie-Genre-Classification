@@ -33,7 +33,7 @@ Tools 🛠
 
 Google Colab, MS Excel, MS Power BI
 
-I love to thank Afame Technologies for this Internship in which I developed my skills in various Machine Learning Algorithms such as Naive Bayes, Logistic Regression, and TF-IDF
+I love to thank Afame Technologies for this Internship in which I developed my skills in various Machine Learning Algorithms such as Naive Bayes, Logistic Regression, Support Vector M<achines and TF-IDF
 
 Analysis of the project :
 
